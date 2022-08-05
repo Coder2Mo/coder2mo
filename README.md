@@ -231,7 +231,7 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
   <summary>Snake Contribution</summary>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img src="https://raw.githubusercontent.com/mosh3eb/mosh3eb/eaecc649d60f67121e07467266f3b97e985b4943/github-contribution-grid-snake.svg" style="max-width:100%;">
+        <img src="https://github.com/Coder2Mo/coder2mo/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
     </a>
         </div>
     </details>
