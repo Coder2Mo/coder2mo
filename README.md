@@ -259,19 +259,19 @@ if you love my work then buy me a coffee 😊 <br>
 <br>
 <div align="center">
    <a href="https://github.com/Coder2Mo">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@mosh3eb&logo=github"/>
+    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@Coder2Mo&logo=github"/>
 </a>
 <a href="https://twitter.com/Mo_coder">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/mosh3eb?style=for-the-badge&label=@mosh3eb&logo=twitter">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/mosh3eb?style=for-the-badge&label=@Mo_coder&logo=twitter">
 </a>
 <a href="https://linkedin.com/in/mosh3eb">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=@mosh3eb&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>
 <a href="https://t.me/Mosh3_eb">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@mosh3eb&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@mosh3_eb&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/coder_mo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@mosh3eb&style=for-the-badge&color=7E3ACE&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@coder_mo&style=for-the-badge&color=7E3ACE&logo=instagram&logoColor=whitesmoke" />
 </a>
 </div>
 <br>
