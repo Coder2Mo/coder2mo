@@ -271,7 +271,7 @@ if you love my work then buy me a coffee 😊 <br>
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@mosh3_eb&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/coder_mo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@coder_mo&style=for-the-badge&color=7E3ACE&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@coder_mo&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
 </a>
 </div>
 <br>
