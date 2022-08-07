@@ -30,21 +30,22 @@
 A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Science Student from the Egypt .
 
 
-- :telescope: I’m working as a Front-End Developer and contributing to Backend for building web applications.
+- :telescope: I’m working as a **Front-End Developer** and contributing to **Backend** for **building web applications**.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: **Exploring** Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech News and Updates.
+- :zap: In my **free time**, I solve problems on **GeeksforGeeks** and read tech **News** and **Updates**.
 
-- ❓ Ask me about anything related to Javascript / Typescript / Python or React / Vue.
+- ❓ Ask me about anything related to **Javascript** / **Typescript** / **Python or React** / **Vue**.
 
-- :mailbox: How to reach me: Mosh3_eb@vk.com.
+- :mailbox: How to reach me: **Mosh3_eb@vk.com**.
 
-- 🔏 CyberSecurity Studying in free time.
+- 🔏 CyberSecurity **Studying** in free time.
 
-- ☕ Coffee lover , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
+- ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
 
-- 💡 [More about me](https://linktr.ee/Mosh3eb).
+- 💡 [More **about me**](https://linktr.ee/Mosh3eb).
+
 
 
 ## Ṥpotify Playing 🎶
