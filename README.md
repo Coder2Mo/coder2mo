@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4200&&size=24&width=500&lines=Hi+There+I+Am+Coder+Mo++;A+Front-End+Web+Developer;Expreienced+Ui+%2F+Ux+Designer;2%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
-A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Science Student from the Egypt .
+A  Junior **Front-End Developer**, **Tech researcher**, **Computer-Science Student from the Egypt** .
 
 
 - :telescope: I’m working as a **Front-End Developer** and contributing to **Backend** for **building web applications**.
@@ -45,6 +45,7 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
 - ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
 
 - 💡 [More **about me**](https://linktr.ee/Mosh3eb).
+
 
 
 
