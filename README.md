@@ -30,7 +30,7 @@
 A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Science Student from the Egypt .
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Front-End Developer and contributing to Backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
