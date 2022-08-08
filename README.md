@@ -223,8 +223,8 @@ A  Junior Front-End Developer, Tech researcher, Computer-Science Student from th
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
             <img alt="Mosh3eb's state" src="https://github-readme-streak-stats.herokuapp.com/?user=Coder2Mo&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/>
         </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Coder2Mo&show_icons=true&count_private=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder2Mo&langs_count=8&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Coder2Mo&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder2Mo&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
   <br/>
     </div>
 </details>
