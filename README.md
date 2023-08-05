@@ -124,6 +124,6 @@ if (codeWorking){
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
+        <img src="https://github.com/coder2mo>/coder2mo/blob/output/github-contribution-grid-snake2.svg" style="max-width:100%;">
     </a>
         </div>
