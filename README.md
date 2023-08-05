@@ -119,10 +119,3 @@ if (codeWorking){
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codermo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codermo) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/codermo) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codermo) 
-
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img src="https://github.com/coder2mo/coder2mo/blob/output/github-contribution-grid-snake2.svg" style="max-width:100%;">
-    </a>
-        </div>
