@@ -24,70 +24,70 @@
 
 ## Tech Stack 💻
 #### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white)
+[![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://www.cprogramming.com/)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white)](https://www.learnpython.org/)
+[![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
  
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
+[![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/getting-started/)
+[![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)](https://www.lua.org/pil/)
 
 #### JS Framework/Library
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
-![Nodejs](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)
+[![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)](https://nextjs.org/docs)
+[![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/getting-started.html)
+[![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)](https://threejs.org/docs/)
+[![Nodejs](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)](https://nodejs.org/en/docs)
+[![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)](https://docs.angularjs.org/guide/introduction)
+[![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)](https://svelte.dev/docs)
 
 #### CSS Framework/Library/Pre-processors
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+[![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)](https://mui.com/)
+[![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)](https://postcss.org/)
+[![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](https://sass-lang.com/documentation/)
 
 #### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)](https://www.framer.com/)
+[![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)](https://lightroom.adobe.com/)
+[![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)](https://www.canva.com/)
+[![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/eg_en/products/aftereffects.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
+[![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/docs/)
+[![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)](https://mobx.js.org/)
 
 #### Backend
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/-MYSQL-000?style=for-the-badge&logo=mysql)
+[![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)](https://www.php.net/docs.php)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel)](https://laravel.com/docs/10.x/readme)
+[![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)](https://www.api.org/)
+[![MySQL](https://img.shields.io/badge/-MYSQL-000?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
 
 #### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+[![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 
 #### CI/CD
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+[![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)](https://circleci.com/docs/)
+[![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)](https://docs.github.com/actions)
+[![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)](https://www.jenkins.io/doc/)
 
 #### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+[![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)](https://docs.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/)
 
 ``` java
 if (codeWorking){
