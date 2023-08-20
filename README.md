@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my programming skills<br>👯 I’m looking to collaborate on Building user-friendly and visually appealing web applications<br>🌱 I’m currently learning Ai and Machine Learning<br>💬 Ask me about Back-end development and related technologies<br>⚡ Fun fact : I use tabs over spaces
+🔭 I’m currently working on improving my programming skills<br>👯 I’m looking to collaborate on Building user-friendly and visually appealing web applications<br>🌱 I’m a Back-end technology Seeker<br>💬 Ask me about Back-end development and related technologies<br>⚡ Fun fact : I use tabs over spaces
 
 
 ## 🌐 Socials:
