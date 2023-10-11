@@ -7,7 +7,7 @@
     <a href="https://facebook.com/mosh3eb" target="blank"><img alt="facebook" title="facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/Mo_Coder" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/mosh3eb" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+    <a href="https://www.linkedin.com/in/codermo" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://instagram.com/iam_not_mo" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://bit.ly/coderMO"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
